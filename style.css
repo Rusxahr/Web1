@@ -1,0 +1,51 @@
+.page-wrapper{
+    max-width: 1360px;
+    margin: auto
+}
+
+*[class="*col-"]{
+    margin: 0 10px
+}
+
+.col-220,
+.col-300,
+.col-620,
+.col-700{
+    margin: 0 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.col-220{
+    width: 220px
+
+}
+.col-300{
+    width: 300px
+
+}
+.col-620{
+    width: 620px
+}
+.col-700{
+    width: 700px
+}
+
+
+
+
+.top-logo{
+    display: block
+}
+
+.top-logo img{
+    max-width: 306px;
+    height: auto;
+}
+
+
+p{
+    color: black;
+{
+footer p{ 
+    color: blue
